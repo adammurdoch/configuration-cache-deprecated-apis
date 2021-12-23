@@ -14,7 +14,7 @@ the nags allows some time to work with plugin authors to replace the deprecated 
 reporting to be improved.
 
 The nags are currently enabled by a feature flag. The `settings.gradle.kts` script for this build enables the feature.
-You can see the "nags" by running:
+You can see the nags by running:
 
 ```
 > ./gradlew broken --warning-mode all
